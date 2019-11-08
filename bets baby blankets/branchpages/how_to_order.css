@@ -1,0 +1,39 @@
+html
+
+body{
+  background-color: #ffff80;
+  outline-style: dotted;
+  outline-color: #ff0066;
+  outline-width: 15px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+
+h1{
+  color: black;
+  font-size: 70px;
+  font-family: 'Galada';
+  border-style: none;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+ol{
+  color:black;
+  font-size: 24px;
+  font-family: 'Galada';
+  line-height: 1.5;
+border-style: ridge;
+margin-top: 50px;
+margin-bottom: 100px;
+margin-right: 100px;
+margin-left: 100px;
+outline-style: dotted;
+outline-color: #ff0066;
+outline-width: 15px;
+}

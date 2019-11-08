@@ -1,0 +1,42 @@
+html
+
+body{
+  background-image: url("../images/nursery_background_1.jpg");
+  background-size: 1150px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+h1 {
+font-size: 60px;
+font-family: "Lucida Handwriting", Lucida, serif;
+color: #602060;
+text-align: left;
+margin-left: 80px;
+}
+
+h2 {
+font-size: 40px;
+color: #602060;
+margin-top: 235px;
+margin-bottom: 20px;
+margin-left: 30px;
+margin-right: 30px;
+border-style: ridge;
+border-color: #0063cc;
+background-color: #cce5ff;
+}
+
+h3{
+color: #602060;
+background-color: #cce5ff;
+  border-style: ridge;
+  border-color: #0063cc;
+  border-spacing: inherit;
+  border-width: thick;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
